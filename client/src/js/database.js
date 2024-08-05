@@ -57,4 +57,3 @@ const initdb = async () =>
   
   initdb();
 
-initdb();
